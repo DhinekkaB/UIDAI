@@ -85,7 +85,6 @@ How can biometric update data identify regions where vulnerable populations may 
 .
 ├── final_analysis.ipynb    # Complete analysis workflow and visualizations
 ├── analysis.py             # Core analysis functions and utilities
-├── Dataset/                # UIDAI datasets (enrolment, biometric, demographic)
 ├── Outputs/                # Generated charts and results
 ├── UIDAI_5486.pdf         # Detailed project documentation
 └── README.md              # Project documentation
